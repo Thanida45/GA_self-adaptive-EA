@@ -1,6 +1,8 @@
 # Mini Project: Evaluating Unique Input Output (UIO) Sequences for Conformance Testing of Finite State Machines (FSMs) using Evolutionary Algorithms
 
-
+###### My project when I was a student at University of Birmingham, UK. Please Don't repeat my work. Thank You
+#### Thanida Prasert
+---
 ## Abstract
 
 Finite State Machine (FSM) is an essential computation model for Software Engineering system. However, there is a problem in finite state machines. The computation of unique input output (UIO) sequences of finite state machines is a problem in Software Testing area. In previous research, Evolutionary Algorithms are effective and therefore recommended to compute unique input output (UIO) sequences of finite state machines in conformance testing. The aim of this project is to observe two kinds of Evolutionary Algorithms which are applied to compute unique input output (UIO) sequences for conformance testing of finite state machines: The Genetic Algorithm (GA), and the Self-Adaptive Evolutionary Algorithm (Self- Adaptive EA). This project presents how to design a finite state machine, how to compute unique input output (UIO) sequences, how algorithms work, and which algorithms have done better. The results of both algorithms are observed from the empirical study in the experiments. Such results are compared and analysed the performance of computing unique input output (UIO) sequences. In practical, the performance on computing UIOs of finite state machines of the Self-Adaptive EA is better than the GA’ performance when considering the same finite state machines. The limitation on computing UIOs of both programs refers to the number of states of the finite state machines, input/output of each state and complicated transitions.
@@ -24,3 +26,8 @@ Netbeans 8.1 is a software programming the Genetic Algorithm and Self-Adaptive E
 
 ### A tool for analysis
 In this project, R application is a testing system for analysing the difference of the results of two programs. R application can provide the p-values which present the difference of the results. This application is useful for analysis two sample, in which refer to the GA and the Self-Adaptive EA in this project.
+
+
+###### My project when I was a student at University of Birmingham, UK. Please Don't repeat my work. 
+#### Thank You
+#### Thanida Prasert
